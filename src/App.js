@@ -2,7 +2,8 @@ function App() {
     return <div className="wrapper">
         <header>
             <div className="headerLeft">
-                <svg/>
+                <img width={40} height={40} src="/img/logo.png" alt=""></img>
+                
             <div className="headerInfo">
                 <h3> Супер кросівки</h3>
                 <p> для стильних підлітків</p>
